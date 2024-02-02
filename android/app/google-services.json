@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719910588000",
+    "project_id": "forumflutterapp",
+    "storage_bucket": "forumflutterapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719910588000:android:686e282601d63c062abd05",
+        "android_client_info": {
+          "package_name": "com.example.forum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6VIOV6UkJ92lRgtXo1bMIEDOjaFFLGLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
